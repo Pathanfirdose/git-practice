@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "i did it"
+echo "hello world"
